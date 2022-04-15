@@ -1,0 +1,41 @@
+body {
+    text-align: center;
+    background-color: #1B1A17;
+
+}
+
+.heading {
+    background-color: #222831;
+    height: 6rem;
+    color: #EEEEEE;
+    text-align: center;
+    font-size: 4rem;
+    font-family: 'Tangerine', cursive;
+}
+
+.container{
+    padding-bottom: 4rem;
+}
+
+img {
+    height: 20rem;
+    width: 15rem;
+    text-align: center;
+    padding-bottom: 2rem;
+}
+
+h1 {
+    font-family: 'Merriweather Sans', sans-serif;
+    padding-top: 1rem;
+    color: #EEEDDE;
+}
+
+p {
+    color: #EEEDDE;
+}
+
+footer {
+    background-color: #066163;
+    padding-bottom: 9.2rem;
+    text-align: center;
+}
